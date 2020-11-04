@@ -1,5 +1,5 @@
 /**
- * Latihan31
+ * Latihan2
  * Nama     : Muhammad Fauzan Fadhlulbarr
  * Kelas    : PBO10K
  * NIM      : 10119176
